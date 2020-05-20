@@ -98,7 +98,6 @@ public class MainActivity extends AppCompatActivity {
 
                 if(s!="") {
                     try {
-                        Toast.makeText(getApplicationContext(),"Hey brutto figlio puttana sei iscritto",Toast.LENGTH_SHORT).show();
                         mappa.setVisibility(View.VISIBLE);
                         login.setVisibility(View.GONE);
 
